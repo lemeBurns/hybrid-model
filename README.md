@@ -1,2 +1,1 @@
-# Prophet+LGBMRegressor
--hybrid Model (experiment)
+# hybrid forecasting Model
